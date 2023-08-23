@@ -307,15 +307,6 @@ const List<Country> countries = [
     maxLength: 9,
   ),
   Country(
-    name: "Campione d'Italia",
-    flag: "🇮🇹",
-    code: "IT",
-    dialCode: "41",
-    regionCode: "91",
-    minLength: 13,
-    maxLength: 13,
-  ),
-  Country(
     name: "Canada",
     flag: "🇨🇦",
     code: "CA",
