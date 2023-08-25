@@ -56,6 +56,7 @@ class PhoneNumber {
   }
 
   String get completeNumber {
+    if(number == "") return "";
     return countryCode + number;
   }
 
