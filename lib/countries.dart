@@ -724,15 +724,6 @@ const List<Country> countries = [
     maxLength: 8,
   ),
   Country(
-    name: "Guernsey",
-    flag: "🇬🇬",
-    code: "GG",
-    dialCode: "44",
-    regionCode: "1481",
-    minLength: 6,
-    maxLength: 6,
-  ),
-  Country(
     name: "Guinea",
     flag: "🇬🇳",
     code: "GN",
@@ -853,15 +844,6 @@ const List<Country> countries = [
     maxLength: 9,
   ),
   Country(
-    name: "Isle of Man",
-    flag: "🇮🇲",
-    code: "IM",
-    dialCode: "44",
-    regionCode: "1624",
-    minLength: 6,
-    maxLength: 6,
-  ),
-  Country(
     name: "Israel",
     flag: "🇮🇱",
     code: "IL",
@@ -892,15 +874,6 @@ const List<Country> countries = [
     dialCode: "81",
     minLength: 10,
     maxLength: 10,
-  ),
-  Country(
-    name: "Jersey",
-    flag: "🇯🇪",
-    code: "JE",
-    dialCode: "44",
-    regionCode: "1534",
-    minLength: 6,
-    maxLength: 6,
   ),
   Country(
     name: "Jordan",
