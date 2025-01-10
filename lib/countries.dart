@@ -235,14 +235,6 @@ const List<Country> countries = [
     maxLength: 8,
   ),
   Country(
-    name: "Bouvet Island",
-    flag: "🇧🇻",
-    code: "BV",
-    dialCode: "47",
-    minLength: 15,
-    maxLength: 15,
-  ),
-  Country(
     name: "Brazil",
     flag: "🇧🇷",
     code: "BR",
@@ -715,15 +707,6 @@ const List<Country> countries = [
     maxLength: 8,
   ),
   Country(
-    name: "Guernsey",
-    flag: "🇬🇬",
-    code: "GG",
-    dialCode: "44",
-    regionCode: "1481",
-    minLength: 6,
-    maxLength: 6,
-  ),
-  Country(
     name: "Guinea",
     flag: "🇬🇳",
     code: "GN",
@@ -844,15 +827,6 @@ const List<Country> countries = [
     maxLength: 9,
   ),
   Country(
-    name: "Isle of Man",
-    flag: "🇮🇲",
-    code: "IM",
-    dialCode: "44",
-    regionCode: "1624",
-    minLength: 6,
-    maxLength: 6,
-  ),
-  Country(
     name: "Israel",
     flag: "🇮🇱",
     code: "IL",
@@ -883,15 +857,6 @@ const List<Country> countries = [
     dialCode: "81",
     minLength: 10,
     maxLength: 10,
-  ),
-  Country(
-    name: "Jersey",
-    flag: "🇯🇪",
-    code: "JE",
-    dialCode: "44",
-    regionCode: "1534",
-    minLength: 6,
-    maxLength: 6,
   ),
   Country(
     name: "Jordan",
@@ -1692,14 +1657,6 @@ const List<Country> countries = [
     dialCode: "597",
     minLength: 7,
     maxLength: 7,
-  ),
-  Country(
-    name: "Svalbard and Jan Mayen",
-    flag: "🇸🇯",
-    code: "SJ",
-    dialCode: "47",
-    minLength: 8,
-    maxLength: 8,
   ),
   Country(
     name: "Eswatini",
