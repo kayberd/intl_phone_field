@@ -11,14 +11,6 @@ const List<Country> countries = [
     maxLength: 9,
   ),
   Country(
-    name: "Åland Islands",
-    flag: "🇦🇽",
-    code: "AX",
-    dialCode: "358",
-    minLength: 15,
-    maxLength: 15,
-  ),
-  Country(
     name: "Albania",
     flag: "🇦🇱",
     code: "AL",
